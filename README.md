@@ -1,1 +1,3 @@
-# actions
+# Actions
+
+Test GitHub Actions.
